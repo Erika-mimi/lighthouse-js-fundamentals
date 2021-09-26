@@ -16,3 +16,9 @@ while (repeat2 < 10){
   repeat2++;
 }
 console.log("Until the sun comes up!")
+
+const chorus1 = "let's dance!";
+for (let repeat3 = 0; repeat3 < 10; repeat3++){
+  console.log(chorus1);
+}
+console.log("Untils the sun comes up");
